@@ -28,13 +28,42 @@
      border: cornsilk;
  }
 
+ label {
+    display: block;
+    padding-left: 15px;
+    text-indent: -15px;
+}
+ 
+input {
+    width: 13px;
+    height: 13px;
+    padding: 0;
+    margin:0;
+    vertical-align: bottom;
+    position: relative;
+    top: -1px;
+    *overflow: hidden;
+}
+
+button {
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #1883ba;
+    border-radius: 6px;
+    border: 2px solid #0016b0;
+    margin-top:50px;
+}
+
  tbody {
      border: cornsilk;
      border-width: 0ch;
  }
  
  th, td {
-     width: 3%;
+     width: 2%;
     text-align: left;
  }
 
