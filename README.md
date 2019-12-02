@@ -1,2 +1,6 @@
 # FakeCore
-This is an example to an calendar management system
+The folder css contains styles of the proyect.
+ 
+The folder js contains javascript files.
+
+agendar.html - this file
